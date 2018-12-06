@@ -1,0 +1,25 @@
+Game Theory Plan
+
+A few public game with results
+
+Most games private
+
+Simulation results for all games
+
+Leader boards?
+
+New games every week?
+
+
+Repeated Prisoners Dilemma
+Customizable rules:
+
+Finite number of rounds, random number of rounds
+Payoffs
+Changing payoffs?
+
+Strategy Input Format
+Internal state which is a double
+opponent does ___, state changes by custimazable amount
+if state > ____, do ____, else do ____
+if state even, do ____, else do _____
